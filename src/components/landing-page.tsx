@@ -97,7 +97,7 @@ export function LandingPage() {
               <Button
                 variant="outline"
                 className="gap-2"
-                onClick={() => window.open("https://github.com/hari7261", "_blank")}
+                onClick={() => window.open("https://github.com/hari7261/Typing-Test", "_blank")}
               >
                 <Github className="w-4 h-4" />
                 View on GitHub
@@ -105,7 +105,7 @@ export function LandingPage() {
               <Button
                 variant="outline"
                 className="gap-2"
-                onClick={() => window.open("https://github.com/hari7261/typemaster-pro/fork", "_blank")}
+                onClick={() => window.open("https://github.com/hari7261/Typing-Test/fork", "_blank")}
               >
                 <Code2 className="w-4 h-4" />
                 Fork Project
