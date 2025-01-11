@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Card } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
-import { Github, Users, GitFork, Star } from "lucide-react";
+import { Github, Users, GitFork } from "lucide-react";
 
 interface GitHubProfile {
   avatar_url: string;
